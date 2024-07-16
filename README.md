@@ -1,3 +1,5 @@
-202311096
-Gavin Brillante
-BSCSSE TN07
+Name: Gavin Brillante
+
+Student Number: 202311096
+
+Course & Section: BS Computer Science Specialization in Software Engineering TN07
